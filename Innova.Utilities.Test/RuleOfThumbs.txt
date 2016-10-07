@@ -1,7 +1,0 @@
-﻿! Test Case + Execute + Assert !
-
-- Never !change! (* change - not refactor *) actual implementation for testing purposes!
-- No implementation of logic in unit tests
-- No refactoring in unit tests
-- Single case / single assertion!
-- Test requirements, not the code!
